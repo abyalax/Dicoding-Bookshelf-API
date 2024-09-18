@@ -1,0 +1,3 @@
+const dataBuku = [];
+
+export { dataBuku };
